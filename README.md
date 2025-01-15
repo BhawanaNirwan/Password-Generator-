@@ -1,12 +1,13 @@
-Advanced Password Generator
+Advanced Password Generator:
 This is a simple Python-based password generator application built using Tkinter. The app allows users to generate strong, customizable passwords based on various criteria such as length, inclusion of uppercase letters, numbers, and special characters. It also provides the option to copy the generated password to the clipboard.
 
-Features
+Features:
 Customizable password length.
 Options to include uppercase letters, numbers, and special characters.
 Ensures that the generated password meets basic complexity requirements.
 Copy the generated password directly to the clipboard for easy use.
-Requirements
+
+Requirements:
 Python 3.x
 tkinter (for GUI)
 pyperclip (for clipboard functionality)
